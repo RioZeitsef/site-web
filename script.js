@@ -1,1 +1,3 @@
-console.log("Hello World!")
+function trois(){
+    console.log("Hello World")
+}
